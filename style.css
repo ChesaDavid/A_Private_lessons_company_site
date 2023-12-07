@@ -1,0 +1,11 @@
+.app-wrapper{
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    margin: 40ox auto;
+    padding-left: 180px;
+    background-color: #fff;
+}
+.short_presentation{
+    background-color: black;
+}
