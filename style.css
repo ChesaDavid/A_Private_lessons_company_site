@@ -6,6 +6,53 @@
     padding-left: 180px;
     background-color: #fff;
 }
+.right-app-wrapper{
+    display: flex;
+    width: 1200px;
+    margin: 40ox auto;
+    padding-left: 180px;
+    background-color: #fff;
+}
+/* asside */
 .short_presentation{
     background-color: black;
+    width: 320px;
+height: 1079px;
+margin-left: 30px;
+}
+.short_presentation_TITLE{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-RIGHT: 60px;
+}
+.short_presentation_IMG{
+    width: 200px;
+    height: 147px;
+padding-right: 20px;    
+padding-left: 80px;
+margin-left: -70px;
+}
+.short_presentation_subtitle{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.short_presentation_description{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.COSTS{
+    margin-right: -300px;
+    margin-left:80px
 }
