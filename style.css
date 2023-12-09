@@ -58,22 +58,54 @@ margin-left: -70px;
 
 /* Midle bpdy */
 .midlle_body{
-
+margin-left: -55px;
 }
 .Title{
-
+    color: #000;
+    font-family: Inter;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal; 
+    text-align: left;
 }
 .underline_title{
+    
+    color: #000;
+    font-family: Inter;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration-line: underline;
+    text-align: right;
+    
 
 }
 .Regular_style{
-
+    color: #000;
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
 }
 .the_anchor_txt{
-
+    color:  #00F;
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration-line: none;
 }
 .paragraph_look{
-
+    color: rgba(0, 0, 0, 0.98);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
 }
 .ForMarh{
 
@@ -93,8 +125,9 @@ margin-left: -70px;
 
 }
 .COSTS_FORM{
-    z-index: 0;
+    z-index: -1;
     position: relative;
+    
 }
 .cost_title{
     color: #000;
