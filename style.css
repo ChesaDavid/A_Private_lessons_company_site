@@ -132,7 +132,7 @@ top: 30px;
 .COSTS_FORM{
     z-index: -1;
     position: relative;
-    top: -958px;
+    top: -928px;
 
 }
 .cost_title{
@@ -142,6 +142,9 @@ top: 30px;
     font-style: normal;
     font-weight: 700;
     line-height: normal;
+    position: relative;
+    top: 55px;
+    left: 45px;
     
 }
 .COSTS_txt{
@@ -154,7 +157,8 @@ top: 30px;
     font-style: normal;
     font-weight: 700;
     line-height: normal;
-    margin-bottom: -20px;
+    margin-bottom: -30px;
+    text-align: center;
 }
 .big_txt_costs{
     color: #000;
@@ -164,17 +168,27 @@ top: 30px;
     font-weight: 700;
     line-height: normal;
     padding-bottom: 70px;
+    text-align: center;
 
 }
 .cost_math1{
 position: relative;
+left: 5px;
+top: 200px;
 }
 .cost_math2{
 position: relative;
+left: 5px;
+top: 120px;
+
 }
 .cost_physics{
 position: relative;
+top: 125px;
+left: 10px;
 }
 .cost_CS{
 position: relative;
+top: 145px;
+left: 5px;
 }
