@@ -127,7 +127,7 @@ margin-left: -55px;
 .COSTS_FORM{
     z-index: -1;
     position: relative;
-    
+
 }
 .cost_title{
     color: #000;
@@ -136,14 +136,28 @@ margin-left: -55px;
     font-style: normal;
     font-weight: 700;
     line-height: normal;
+    margin: 40px;
 }
 .COSTS_txt{
     margin-right: -80px;
 }
 .small_txt_costs{
-
+    color: #000;
+    font-family: Inter;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: -20px;
 }
 .big_txt_costs{
+    color: #000;
+    font-family: Inter;
+    font-size: 41px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-bottom: 70px;
 
 }
 .cost_math1{
