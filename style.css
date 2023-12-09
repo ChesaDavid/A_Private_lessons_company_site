@@ -19,8 +19,8 @@
     background-color: black;
     width: 320px;
 height: 1079px;
-padding: 50px;
-
+padding-left: 80px;
+padding-right: 80px;
 }
 .short_presentation_TITLE{
     color: #FFF;
@@ -79,9 +79,8 @@ margin-top: 170px;
     font-style: normal;
     font-weight: 700;
     line-height: normal;
-    text-decoration-line: underline;
     text-align: left;
-    margin-left: -35px;
+    margin-left: -65px;
     margin-bottom: 100px;
 
 }
@@ -92,6 +91,7 @@ margin-top: 170px;
     font-style: normal;
     font-weight: 700;
     line-height: normal;
+    margin-left: -25px;
 }
 .the_anchor_txt{
     color:  #00F;
@@ -109,27 +109,30 @@ margin-top: 170px;
     font-style: normal;
     font-weight: 700;
     line-height: normal;
+    margin-top: -35px;
 }
-.ForMarh{
-
+.ForMath{
+padding-bottom: 30px;
 }
 .ForPhysics{
-
+position: relative;
+top: 15px;  
 }
 .ForCS{
-
+position: relative;
+top: 30px;
 }
 /* Costs */
 .COSTS{
     margin-right: -630px;
     margin-left:50px;
     z-index: 1;
-    position: relative;
 
 }
 .COSTS_FORM{
     z-index: -1;
     position: relative;
+    top: -958px;
 
 }
 .cost_title{
@@ -139,7 +142,7 @@ margin-top: 170px;
     font-style: normal;
     font-weight: 700;
     line-height: normal;
-    margin: 40px;
+    
 }
 .COSTS_txt{
     margin-right: -80px;
@@ -164,17 +167,14 @@ margin-top: 170px;
 
 }
 .cost_math1{
-margin-bottom: -15px;
+position: relative;
 }
 .cost_math2{
-padding-top: -25px;
+position: relative;
 }
 .cost_physics{
-
+position: relative;
 }
 .cost_CS{
-
-}
-.COSTS_FORM{
-    
+position: relative;
 }
