@@ -19,6 +19,7 @@
     background-color: black;
     width: 320px;
 height: 1079px;
+padding: 50px;
 
 }
 .short_presentation_TITLE{
@@ -30,6 +31,7 @@ height: 1079px;
     line-height: normal;
     padding-right: 60px;
     margin-right:-45px;
+    text-align: center;
 }
 .short_presentation_IMG{
     width: 200px;
@@ -45,7 +47,11 @@ margin-left: -70px;
     font-style: normal;
     font-weight: 700;
     line-height: normal;
-    padding-top:40px;
+    padding: 40px;
+    padding-top:80px;
+    font-weight: 400;
+    margin-left:-10px;
+    text-align: center;
 }
 .short_presentation_description{
     color: #FFF;
@@ -54,23 +60,19 @@ margin-left: -70px;
     font-style: normal;
     font-weight: 700;
     line-height: normal;
+    text-align: center;
+    align-self: center;
+    align-items: centers;
+    margin-left: -50px;
+    margin-right: -5px;
 }
 
 /* Midle bpdy */
 .midlle_body{
 margin-left: -55px;
+margin-top: 170px;
 }
 .Title{
-    color: #000;
-    font-family: Inter;
-    font-size: 45px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: normal; 
-    text-align: left;
-}
-.underline_title{
-    
     color: #000;
     font-family: Inter;
     font-size: 64px;
@@ -78,8 +80,9 @@ margin-left: -55px;
     font-weight: 700;
     line-height: normal;
     text-decoration-line: underline;
-    text-align: right;
-    
+    text-align: left;
+    margin-left: -35px;
+    margin-bottom: 100px;
 
 }
 .Regular_style{
@@ -161,10 +164,10 @@ margin-left: -55px;
 
 }
 .cost_math1{
-
+margin-bottom: -15px;
 }
 .cost_math2{
-
+padding-top: -25px;
 }
 .cost_physics{
 
