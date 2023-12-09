@@ -5,6 +5,7 @@
     margin: 40ox auto;
     padding-left: 180px;
     background-color: #fff;
+    margin-left: -30px;
 }
 .right-app-wrapper{
     display: flex;
@@ -18,7 +19,7 @@
     background-color: black;
     width: 320px;
 height: 1079px;
-margin-left: 30px;
+
 }
 .short_presentation_TITLE{
     color: #FFF;
@@ -27,7 +28,8 @@ margin-left: 30px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-    padding-RIGHT: 60px;
+    padding-right: 60px;
+    margin-right:-45px;
 }
 .short_presentation_IMG{
     width: 200px;
@@ -39,10 +41,11 @@ margin-left: -70px;
 .short_presentation_subtitle{
     color: #FFF;
     font-family: Inter;
-    font-size: 24px;
+    font-size: 34px;
     font-style: normal;
     font-weight: 700;
     line-height: normal;
+    padding-top:40px;
 }
 .short_presentation_description{
     color: #FFF;
@@ -52,7 +55,76 @@ margin-left: -70px;
     font-weight: 700;
     line-height: normal;
 }
+
+/* Midle bpdy */
+.midlle_body{
+
+}
+.Title{
+
+}
+.underline_title{
+
+}
+.Regular_style{
+
+}
+.the_anchor_txt{
+
+}
+.paragraph_look{
+
+}
+.ForMarh{
+
+}
+.ForPhysics{
+
+}
+.ForCS{
+
+}
+/* Costs */
 .COSTS{
-    margin-right: -300px;
-    margin-left:80px
+    margin-right: -630px;
+    margin-left:50px;
+    z-index: 1;
+    position: relative;
+
+}
+.COSTS_FORM{
+    z-index: 0;
+    position: relative;
+}
+.cost_title{
+    color: #000;
+    font-family: Inter;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.COSTS_txt{
+    margin-right: -80px;
+}
+.small_txt_costs{
+
+}
+.big_txt_costs{
+
+}
+.cost_math1{
+
+}
+.cost_math2{
+
+}
+.cost_physics{
+
+}
+.cost_CS{
+
+}
+.COSTS_FORM{
+    
 }
