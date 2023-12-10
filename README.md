@@ -12,3 +12,8 @@ The project will be hosted on netfly account aswell and the link will be made wh
     It will be use to structurate the whole site
 ## e.JavaScript 
     For the functions of the site
+
+# Ways to interact with the final project
+## Through the githib reposatary
+## Or through the public url made with netfly 
+    https://6574ffe940c3bb37e9950823--meek-douhua-6f7f4a.netlify.app/
